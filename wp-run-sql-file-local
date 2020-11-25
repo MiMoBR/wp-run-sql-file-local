@@ -1,0 +1,9 @@
+Download last version WordPress
+Create a file on C:\xampp\htdocs\NAME-MAIN-FOLDER
+Run Xampp
+Create new DB
+Import SQL 
+Paste WordPress files com NAME-MAIN-FOLDER C:\xampp\htdocs
+http://localhost/NAME-FILE-CREATE-IN-HTDOCS/wp-admin/setup-config.php 
+Confirm that you don´t want to run an empty file, so the SQL that you want to access
+When access, you have to choose a theme and that´s it!
